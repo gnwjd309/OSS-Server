@@ -50,4 +50,3 @@
 ## *Used Library*
 - Kosac : http://word.snu.ac.kr/kosac/
 - SCE-TTS : https://github.com/sce-tts/sce-tts.github.io
-- Tesseract Data v4.0 :  https://github.com/tesseract-ocr/tessdata/releases/tag/4.0.0
